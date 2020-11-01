@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70a994e7-326c-422f-a9cd-3979beccc897" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jdSBXl6u7Jnq3K9UHRdsdII4bh" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/SpringInAction/taco-cloud" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\c02" />
+      <recent name="C:\Users\User\WebstormProjects\c02\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.example.html">
+    <configuration name="arithmetic-operator.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c02/arithmetic-operator.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="array-literal.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c02/array-literal.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="example.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c02/example.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="string-operator.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c02/string-operator.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="update-array.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c02/update-array.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.example.html" />
+        <item itemvalue="JavaScript Debug.string-operator.html" />
+        <item itemvalue="JavaScript Debug.arithmetic-operator.html" />
+        <item itemvalue="JavaScript Debug.update-array.html" />
+        <item itemvalue="JavaScript Debug.array-literal.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70a994e7-326c-422f-a9cd-3979beccc897" name="Default Changelist" comment="" />
+      <created>1604132340268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604132340268</updated>
+      <workItem from="1604132341350" duration="10464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
