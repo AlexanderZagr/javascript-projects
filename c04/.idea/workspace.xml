@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ae52619-623d-4238-bb3e-252dae3202e9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jkFGFpUxkfcgdlnrL37YIK1jvW" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javascript-and-jquery-book-code-0915/c04" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\c04" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.example.html">
+    <configuration name="do-while-loop.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c04/do-while-loop.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="example.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c04/example.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="foor-loop.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c04/foor-loop.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="switch-statement.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c04/switch-statement.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="while-loop.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c04/while-loop.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.example.html" />
+        <item itemvalue="JavaScript Debug.do-while-loop.html" />
+        <item itemvalue="JavaScript Debug.while-loop.html" />
+        <item itemvalue="JavaScript Debug.foor-loop.html" />
+        <item itemvalue="JavaScript Debug.switch-statement.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ae52619-623d-4238-bb3e-252dae3202e9" name="Default Changelist" comment="" />
+      <created>1604340084615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604340084615</updated>
+      <workItem from="1604340085718" duration="2563000" />
+      <workItem from="1604397025609" duration="2834000" />
+      <workItem from="1604410948831" duration="999000" />
+      <workItem from="1604419773875" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
