@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5dc1660-3016-4ae0-8af7-cd7b07d04f0e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jmqo1tvNAybiR4E1dONjsr1u6u" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javascript-and-jquery-book-code-0915/c05" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\с05" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\с05" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.example.html">
+    <configuration name="example.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/с05/example.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="get-attribute.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/с05/get-attribute.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="remove-attribute.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/с05/remove-attribute.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="remove-element.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/с05/remove-element.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="set-attribute.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/с05/set-attribute.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.example.html" />
+        <item itemvalue="JavaScript Debug.remove-attribute.html" />
+        <item itemvalue="JavaScript Debug.set-attribute.html" />
+        <item itemvalue="JavaScript Debug.get-attribute.html" />
+        <item itemvalue="JavaScript Debug.remove-element.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5dc1660-3016-4ae0-8af7-cd7b07d04f0e" name="Default Changelist" comment="" />
+      <created>1604419785755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604419785755</updated>
+      <workItem from="1604419786880" duration="5878000" />
+      <workItem from="1604596823841" duration="9000" />
+      <workItem from="1604665256945" duration="3000" />
+      <workItem from="1604665578321" duration="11000" />
+      <workItem from="1604679251796" duration="1858000" />
+      <workItem from="1604687215347" duration="1068000" />
+      <workItem from="1604688308817" duration="1059000" />
+      <workItem from="1604740157808" duration="5061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
