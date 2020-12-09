@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c64ffe41-dd5c-44fe-b9f1-70b6fceba269" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lPzuhepqUxueJXlRW7XpOQ77Bh" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\c10" />
+      <recent name="C:\Users\User\WebstormProjects\c10\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.throw.html">
+    <configuration name="breakpoints.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c10/breakpoints.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="console-assert.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c10/console-assert.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="console-table.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c10/console-table.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="throw.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c10/throw.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="try-catch-finally.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/c10/try-catch-finally.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.throw.html" />
+        <item itemvalue="JavaScript Debug.try-catch-finally.html" />
+        <item itemvalue="JavaScript Debug.breakpoints.html" />
+        <item itemvalue="JavaScript Debug.console-assert.html" />
+        <item itemvalue="JavaScript Debug.console-table.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c64ffe41-dd5c-44fe-b9f1-70b6fceba269" name="Default Changelist" comment="" />
+      <created>1607513738638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607513738638</updated>
+      <workItem from="1607513739743" duration="5158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
